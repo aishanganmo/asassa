@@ -1,0 +1,30 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx4c7a8e20dc906c77",
+# 公众号appSecret
+"app_secret": "b7f7ba1bc3f574f3a13a1cfb226e28e5",
+# 模板消息id
+"template_id": "AVqYrM4_dHfb7n-5KxQxspa6Rk4nsLC6OxLkSoPBj6k",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oy0xg56Y-DHmLbF1lJNeDXPd5Nq4"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "	
+1dbe512bb49d4388aa1d7d173fce8730",
+# 天行数据apikey
+"tian_api": "9f5a7b643e3fc3fa102995dae4914d8e ",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "瑶海区",
+# 生日1
+"birthday1": {"name": "宝宝", "birthday": "2002-02-26"},
+# 生日2
+"birthday2": {"name": "小林", "birthday": "r1997-06-06"},
+# 在一起的日子，格式同上
+"love_date": "2022-06-06",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "",
+# 金句英文
+"note_en": ""
+}
